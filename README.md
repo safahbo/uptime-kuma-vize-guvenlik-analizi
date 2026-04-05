@@ -2,7 +2,7 @@
 
 ![Bölüm](https://img.shields.io/badge/Bölüm-Bilişim_Güvenliği_Teknolojisi-00529B?style=for-the-badge)
 ![Üniversite](https://img.shields.io/badge/Üniversite-İstinye_Üniversitesi-D32F2F?style=for-the-badge)
-![Ders](https://img.shields.io/badge/Ders-Güvenli_Web_Yazılımı-4CAF50?style=for-the-badge)
+
 
 **Proje Kapsamı:** Güvenli Web Yazılımı Geliştirme Vize Projesi  
 **İncelenen Araç Kategorisi:** Kategori 5 - Veri İşleme, Lab, ve Home-Server
